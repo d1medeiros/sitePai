@@ -35,9 +35,13 @@
   </div>
 </nav>
 
-<div class="jumbotron text-center">
-  <h1>Company</h1> 
-  <p>Especializado em Prótese Dentária</p> 
+<div >
+ 	<h1 class="text-left flo">Atelier Dental</h1> 
+    
+    <div class="text-right">
+          <img src="img/bg_1.png" width="1312" height="437" alt=""/>
+    </div>
+  
 </div>
 
 <!-- Container (About Section) -->

@@ -37,7 +37,10 @@
   }
   
   .flo{
-	  position:relative;
+	  position:absolute;
+	  padding-top:4%;
+	  padding-left:10%;
+	
   }
   .logo {
       color: #0099ff;
